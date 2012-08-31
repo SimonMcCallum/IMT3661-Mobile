@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World</string>
+    <string name="app_name">DownloadTest</string>
+    <string name="Information">This app was developed as part of the Mobile Programming course IMT3661 at Gjovik University College</string>
+
+</resources>
